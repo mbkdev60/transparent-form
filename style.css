@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-size: cover;
+	background-image: url(71-718359_android-logo-hd-wallpapers-1080p-download.jpg);
+	background-position: center center;
+	font-family: sans-serif;
+	height: 67vh;
+}
+.box {
+	display: block;
+	margin-left: 30%;
+	margin-top: 22%;
+	width: 400px;
+	padding: 40px;
+	background: rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.9);
+	border-radius: 15px;
+}
+.box h2 {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 25px;
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: left;
+	color: rgb(76, 125, 199);
+}
+
+.box .input-box {
+	position: relative;
+}
+.box .input-box input {
+	width: 50%;
+	padding: 5px 0;
+	background: transparent;
+	border-bottom: 2px solid rgb(76, 125, 199);
+	border: none;
+	outline: none;
+}
